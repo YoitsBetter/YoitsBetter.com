@@ -1,12 +1,15 @@
 <!doctype html>
 <html lang="en" class="h-100">
   <head>
-    <meta charset="utf-8">
+    <meta property="og:image" content="./Images/Yoitsbetter Colored .png" />
+	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="About YoItsBetter">
     <meta name="author" content="YoitsBetter">
     <meta name="generator" content="">
+	<meta property="og:title" content="A Better Website" />
     <title>YoitsBetter</title>
+	<link rel="shortcut icon" type="image/jpg" href="./Images/YoitsBetter logo.png"/>
 
 
     
@@ -70,7 +73,7 @@
     <p>Visit <a href="https://ropehammer.com/" class="text-white" target="_blank">RopeHammer.com</a></p>
 	<div class="row justify-content-center" id='images'>
   <div class="col-md-1 col-2">
-      <a target="_blank" href="https://www.yoitsbetter.com"> <image class="images" src="./Images/yoitsbetter logo.png"/></a>
+      <a target="_blank" href="https://www.yoitsbetter.com"> <image class="images" src="./Images/YoitsBetter logo.png"/></a>
   </div>
   <div class="col-md-1 col-2">
       <a target="_blank" href="https://www.youtube.com/channel/UC5mlPIVljS0jZ2bcul5GghQ"> <image class="images" src="./Images/youtube logo.png"/></a>
