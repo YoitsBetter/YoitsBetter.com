@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="YoitsBetter">
+    <meta name="generator" content="">
+    <title>YoitsBetter</title>
+
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+		.images {
+		width: 100%
+		}
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="cover.css" rel="stylesheet">
+  </head>
+  <body class="d-flex h-100 text-center text-white">
+    
+<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+ <!-- <header class="mb-auto">
+    <div>
+      <h3 class="float-md-start mb-0">Cover</h3>
+      <nav class="nav nav-masthead justify-content-center float-md-end">
+        <a class="nav-link active" aria-current="page" href="#">Home</a>
+        <a class="nav-link" href="#">Features</a>
+        <a class="nav-link" href="#">Contact</a>
+      </nav>
+    </div>
+  </header>-->
+
+ <!-- <main class="px-3">
+    <h1>Cover your page.</h1>
+    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+    <p class="lead">
+      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Learn more</a>
+    </p>
+  </main>-->
+
+<div class="align-self-center Poop">
+  <img src="./Images/Yoitsbetter Colored .png" class="w-100">
+	<h1 id="Better">YoitsBetter</h1>
+</div>
+
+
+
+  <footer class="mt-auto text-white-50">
+    <p>Visit <a href="https://ropehammer.com/" class="text-white" target="_blank">RopeHammer.com</a></p>
+	<div class="row justify-content-center" id='images'>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://www.yoitsbetter.com"> <image class="images" src="./Images/yoitsbetter logo.png"/></a>
+  </div>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://www.youtube.com/channel/UC5mlPIVljS0jZ2bcul5GghQ"> <image class="images" src="./Images/youtube logo.png"/></a>
+  </div>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://www.instagram.com/yoitsbetter"> <image class="images" src="./Images/instagram logo.png"/></a>
+  </div>
+   <div class="col-md-1 col-2">
+      <a target="_blank" href="https://twitter.com/yoitsbetter"> <image class="images" src="./Images/twitter logo.png"/></a>
+  </div>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://steamcommunity.com/id/YoItsBetter"> <image class="images" src="./Images/steam logo.png"/></a>
+  </div>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://ropehammer.com"> <image class="images" src="./Images/hammer logo.png"/></a>
+  </div>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://www.reddit.com/user/yoitsbetter"> <image class="images" src="./Images/reddit logo.png"/></a>
+  </div>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://www.facebook.com/yoitsbetter"> <image class="images" src="./Images/facebook logo.png"/></a>
+  </div>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://www.snapchat.com/add/yoitsbetter?share_id=OEIxRjVE&locale=en_US"> <image class="images" src="./Images/snapchat logo.png"/></a>
+  </div>
+  <div class="col-md-1 col-2">
+      <a target="_blank" href="https://www.twitch.tv/yoitsbetter"> <image class="images" src="./Images/twitch logo.png"/></a>
+  </div>
+  </footer>
+</div>
+
+    
+  </body>
+</html>
